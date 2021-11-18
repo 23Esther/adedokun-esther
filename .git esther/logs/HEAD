@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 6e047f1e34c142d2d505a06a2fcfebabc8ab47a9 Adedokun Esther Adedolapo <90488411+23Esther@users.noreply.github.com> 1637079671 +0800	clone: from https://github.com/ITE-316-BSIT-3-A-SWU/adedokun-project
+6e047f1e34c142d2d505a06a2fcfebabc8ab47a9 b589e4d63442f80a82a0cff7a3baf05d12681a12 Adedokun Esther Adedolapo <90488411+23Esther@users.noreply.github.com> 1637079780 +0800	commit: Created a new Expo app
+b589e4d63442f80a82a0cff7a3baf05d12681a12 dde9e69e9ac1f8b800d7869ed2ceac2ce948c524 Adedokun Esther Adedolapo <90488411+23Esther@users.noreply.github.com> 1637082071 +0800	commit: added new components, adeed new icons
+dde9e69e9ac1f8b800d7869ed2ceac2ce948c524 c7be135d1a1c8737c0f87b4c0385c3c40e065d24 Adedokun Esther Adedolapo <90488411+23Esther@users.noreply.github.com> 1637097130 +0800	commit: added new component, imported Alert function,
+c7be135d1a1c8737c0f87b4c0385c3c40e065d24 2934e4773321aefbeb0d7d868e786fd36b78f547 Adedokun Esther Adedolapo <90488411+23Esther@users.noreply.github.com> 1637161907 +0800	commit: Created UI in App.js
+2934e4773321aefbeb0d7d868e786fd36b78f547 1fae9ee5a754013c75554d118111cbb77a36f24d Adedokun Esther Adedolapo <90488411+23Esther@users.noreply.github.com> 1637205734 +0800	commit: added new dependencies
+1fae9ee5a754013c75554d118111cbb77a36f24d bf3767e9e1c279cb45753994fe8eb78b447736e9 Adedokun Esther Adedolapo <90488411+23Esther@users.noreply.github.com> 1637214770 +0800	commit: Debugging
+bf3767e9e1c279cb45753994fe8eb78b447736e9 c5cb041158edbf6459e547840cbf903fd54d7ebf Adedokun Esther Adedolapo <90488411+23Esther@users.noreply.github.com> 1637238811 +0800	commit: Deleted App Navigator
